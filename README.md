@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Sylvia Anter
 
-<!--
-**sylviaAnter/sylviaAnter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science | Data Analyst | Machine Learning | Power BI
 
-Here are some ideas to get you started:
+I’m a Computer Engineering graduate and an **AI & Data Science Instructor** with a strong interest in building data-driven and intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main areas of interest are **Data Science, Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Data Analysis, and Business Intelligence**.
+
+---
+
+## 🧠 About Me
+
+- 🎓 Computer Engineering Graduate — Arab Academy for Science, Technology & Maritime Transport (AAST)
+- 📊 Data Analyst with experience in Data Analysis, Power BI, Python, SQL, Excel, and Machine Learning
+- 🤖 Working with Power BI & Machine Learning for business and sales analytics
+- 👩‍🏫 AI & Data Science Instructor
+- 🧠 Interested in Machine Learning, Deep Learning, NLP, LLMs, Generative AI, and RAG
+- 📈 Interested in Predictive Analytics and Forecasting
+- 🐍 Python & SQL enthusiast
+- 📊 Passionate about transforming data into meaningful insights
+
+---
+
+## 🚀 AI & Data Science
+
+My main focus is the journey from **data to intelligence**:
+
+```text
+Data
+  ↓
+Data Preparation & ETL
+  ↓
+Exploratory Data Analysis
+  ↓
+Statistics & Visualization
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+NLP
+  ↓
+LLMs & Generative AI
+  ↓
+RAG & Intelligent Applications
